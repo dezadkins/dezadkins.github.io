@@ -93,7 +93,4 @@ Instructions:
      	fontawesome.io
 
 
-	Other Stuff:
-
-		- If you don't like the way images are tinted, either change "images/overlay.png"
-		  to something else, or remove all references to it from css/style.css.
+	
